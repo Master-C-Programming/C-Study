@@ -1,7 +1,7 @@
-#0825 C-Study
+# 0825 C-Study
 
-####Github 계정 생성
+#### Github 계정 생성
 
-####Fork, Pull request,...개념 인지
+#### Fork, Pull request,...개념 인지
 
-####Github Desktop설치 및 Push, Pull개념 이해
+#### Github Desktop설치 및 Push, Pull개념 이해
