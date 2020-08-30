@@ -1,6 +1,6 @@
 # 20-08-29 1주차 C-Study Code Review
 
-###### Baekjoon online judge 5554번 문제 풀이 & 코드 공유 & 리뷰 / 작성자 : 손동완
+###### Baekjoon online judge 5554번 문제 풀이 & 코드 공유 & 리뷰
 <hr>
 
 * __문제__<br>
