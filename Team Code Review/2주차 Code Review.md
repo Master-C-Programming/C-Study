@@ -1,4 +1,4 @@
-# 0905 C-Study
+# 20-09-05 2주차 C-Study Code Review
 
 ###### Baekjoon online judge 5543번 문제 풀이 & 코드 공유 & 리뷰
 <hr>
